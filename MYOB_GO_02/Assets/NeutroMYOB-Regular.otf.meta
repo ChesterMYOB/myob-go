@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b2f9952743f49d54182a19e863f8a075
+timeCreated: 1510804354
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Neutro MYOB
+  fontNames:
+  - Neutro MYOB
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
