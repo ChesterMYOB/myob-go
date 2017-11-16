@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="Whakapapa" size="1.000000 0.741667" />
+    <ImageTarget name="stationary" size="1.500000 1.125000" />
+    <ImageTarget name="fruit" size="0.500000 0.375000" />
+    <ImageTarget name="beer" size="0.800000 0.600000" />
     <ImageTarget name="boat" size="0.500000 0.666667" />
     <ImageTarget name="stones" size="0.300000 0.210000" />
     <ImageTarget name="sailing" size="1.000000 1.333333" />
